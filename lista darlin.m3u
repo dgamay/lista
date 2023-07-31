@@ -600,293 +600,315 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/37759
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/37780
 #EXTINF:-1,24/7 Zoids (s)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/63382
-#EXTINF:-1,CINE - A&E (C)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/119339
-#EXTINF:-1,CINE - A&E (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26925
-#EXTINF:-1,CINE - A&E (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26749
-#EXTINF:-1,CINE - AMC (C)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/116476
-#EXTINF:-1,CINE - AMC (M)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26931
-#EXTINF:-1,CINE - AMC (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26744
-#EXTINF:-1,CINE - AXN (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26761
-#EXTINF:-1,CINE - AXN (L)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26922
-#EXTINF:-1,CINE - AXN (X)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/119331
-#EXTINF:-1,CINE - Cine Latino (C)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1926
-#EXTINF:-1,CINE - CineCanal (PM)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26903
-#EXTINF:-1,CINE - CineCanal (C)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1927
-#EXTINF:-1,CINE - Cinecanal (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26753
-#EXTINF:-1,CINE - Cinemax (PM)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1904
-#EXTINF:-1,CINE - Cinemax (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1444
-#EXTINF:-1,CINE - Cinemax (M)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26743
-#EXTINF:-1,CINE - Cinemax MEX (C)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/116478
-#EXTINF:-1,CINE - Golden (M)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1473
-#EXTINF:-1,CINE - Golden (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1472
-#EXTINF:-1,CINE - Golden Edge (M)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1478
-#EXTINF:-1,CINE - Golden Plus (M)(1080) [Dual Audio]
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1476
-#EXTINF:-1,CINE - Golden Plus (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1477
-#EXTINF:-1,CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1474
-#EXTINF:-1,CINE - Golden Premiere 2 (PM)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/69893
-#EXTINF:-1,CINE - HBO (PM)(1080)
+#EXTINF:-1,USA - 24/7 Cinemax West (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63660
+#EXTINF:-1,USA - 24/7 IndiePlex (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63659
+#EXTINF:-1,USA - 24/7 MovieMax (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63657
+#EXTINF:-1,USA - 24/7 MoviePlex (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63656
+#EXTINF:-1,USA - 24/7 OuterMax (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63655
+#EXTINF:-1,USA - 24/7 RetroPlex (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63654
+#EXTINF:-1,USA - 24/7 Showtime West (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63653
+#EXTINF:-1,USA - 24/7 Starz (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63634
+#EXTINF:-1,USA - 24/7 Starz Black (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63652
+#EXTINF:-1,USA - 24/7 Starz Cinema West (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63649
+#EXTINF:-1,USA - 24/7 Starz Comedy (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63648
+#EXTINF:-1,USA - 24/7 Starz East (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63647
+#EXTINF:-1,USA - 24/7 Starz Encore Action (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63643
+#EXTINF:-1,USA - 24/7 Starz Encore Family (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63640
+#EXTINF:-1,USA - 24/7 Starz Encore West (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63636
+#EXTINF:-1,USA - 24/7 Starz Family (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/63635
+
+
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1039
-#EXTINF:-1,CINE - HBO (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO INGLES", HBO (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/141189
-#EXTINF:-1,CINE - HBO (e)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO INGLES", HBO (e)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1040
-#EXTINF:-1,CINE - HBO (e)(SD)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO (e)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1041
-#EXTINF:-1,CINE - HBO 2 (PM)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO 2 (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1030
-#EXTINF:-1,CINE - HBO 2 (PM)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO 2 (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1913
-#EXTINF:-1,CINE - HBO 2 (e)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO 2 (e)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1031
-#EXTINF:-1,CINE - HBO 2 (e)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1032
-#EXTINF:-1,CINE - HBO 2 (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO 2 (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/52876
-#EXTINF:-1,CINE - HBO Family (e)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1034
-#EXTINF:-1,CINE - HBO Family (PM)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1914
-#EXTINF:-1,CINE - HBO Family (e)(SD)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Family (e)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1035
-#EXTINF:-1,CINE - HBO Family (PM)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Family (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1033
-#EXTINF:-1,CINE - HBO Family (PM)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1906
-#EXTINF:-1,CINE - HBO Mundi (L)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Mundi (L)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/52878
-#EXTINF:-1,CINE - HBO Mundi (X)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/53238
-#EXTINF:-1,CINE - HBO Plus (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Plus (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1434
-#EXTINF:-1,CINE - HBO Plus (M)(SD) [Dual Audio]
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Plus (M)(SD) [Dual Audio]
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/5340
-#EXTINF:-1,CINE - HBO Plus (PM)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Plus (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1912
-#EXTINF:-1,CINE - HBO POP (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO POP (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1479
-#EXTINF:-1,CINE - HBO POP (PM)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1911
-#EXTINF:-1,CINE - HBO Signature (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Signature (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/52879
-#EXTINF:-1,CINE - HBO Signature (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Signature (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/53240
-#EXTINF:-1,CINE - HBO Signature (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Signature (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1909
-#EXTINF:-1,CINE - HBO Xtreme (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Xtreme (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1481
-#EXTINF:-1,CINE - HBO Xtreme (PM)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1910
-#EXTINF:-1,CINE - HBO Xtreme (X)(SD)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Xtreme (X)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1482
-#EXTINF:-1,CINE - TNT (M)(1080)
+
+#EXTINF:-1 tvg-logo="" group-title="CINE", A&E (C)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/119339
+#EXTINF:-1 tvg-logo="" group-title="CINE", A&E (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26925
+#EXTINF:-1 tvg-logo="" group-title="CINE", A&E (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26749
+#EXTINF:-1 tvg-logo="" group-title="CINE", AMC (C)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/116476
+#EXTINF:-1 tvg-logo="" group-title="CINE", AMC (M)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26931
+#EXTINF:-1 tvg-logo="" group-title="CINE", AMC (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26744
+#EXTINF:-1 tvg-logo="" group-title="CINE", AXN (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26761
+#EXTINF:-1 tvg-logo="" group-title="CINE", AXN (L)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26922
+#EXTINF:-1 tvg-logo="" group-title="CINE", AXN (X)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/119331
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cine Latino (C)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1926
+#EXTINF:-1 tvg-logo="" group-title="CINE", CineCanal (PM)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26903
+#EXTINF:-1 tvg-logo="" group-title="CINE", CineCanal (C)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1927
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cinecanal (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26753
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cinemax (PM)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1904
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cinemax (M)(1080)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1444
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cinemax (M)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/26743
+#EXTINF:-1 tvg-logo="" group-title="CINE", Cinemax MEX (C)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/116478
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden (M)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1473
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1472
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden Edge (M)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1478
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden Plus (M)(1080) [Dual Audio]
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1476
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden Plus (M)(SD)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1477
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden Premiere (M)(1080) [Dual Audio]
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/1474
+#EXTINF:-1 tvg-logo="" group-title="CINE", Golden Premiere 2 (PM)(720)
+http://latintvec.com:43201/marcuspty/PBSHBciC5C/69893
+
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26926
-#EXTINF:-1,CINE - TNT (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69586
-#EXTINF:-1,CINE - TNT (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1503
-#EXTINF:-1,CINE - TNT (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26763
-#EXTINF:-1,CINE - TNT Series (PM)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series (PM)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1042
-#EXTINF:-1,CINE - TNT Series (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26907
-#EXTINF:-1,CINE - TNT Series (e)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series (e)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1043
-#EXTINF:-1,CINE - TNT Series (e)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series (e)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1044
-#EXTINF:-1,CINE - TNT Series (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1504
-#EXTINF:-1,CINE - TNT Series COL (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TNT Series COL (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/119337
-#EXTINF:-1,CINE - Universal Cinema (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Cinema (M)(1080) [Dual Audio]
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1464
-#EXTINF:-1,CINE - Universal Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26908
-#EXTINF:-1,CINE - Universal Channel (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Channel (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1923
-#EXTINF:-1,CINE - Universal Cinema (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Cinema (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/144835
-#EXTINF:-1,CINE - Universal Channel (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Channel (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1493
-#EXTINF:-1,CINE - Universal Comedy (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Comedy (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153306
-#EXTINF:-1,CINE - Universal Crime (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Crime (M)(1080) [Dual Audio]
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1466
-#EXTINF:-1,CINE - Universal Crime (L)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Crime (L)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/144836
-#EXTINF:-1,CINE - Universal Premier (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Premier (M)(1080) [Dual Audio]
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26738
-#EXTINF:-1,CINE - Universal Premier (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Premier (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26737
-#EXTINF:-1,CINE - Universal Premier (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Premier (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/144838
-#EXTINF:-1,CINE - Universal Reality (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Reality (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/144837
-#EXTINF:-1,CINE - Universal Reality (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Reality (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1460
-#EXTINF:-1,CINE - Universal Reality (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Universal Reality (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/65437
-#EXTINF:-1,CINE - Comedy Central (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Comedy Central (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26929
-#EXTINF:-1,CINE - Comedy Central (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Comedy Central (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1446
-#EXTINF:-1,CINE - De Pelicula (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", De Pelicula (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1448
-#EXTINF:-1,CINE - De Pelicula Clasico (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", De Pelicula Clasico (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69583
-#EXTINF:-1,CINE - De Pelicula Plus (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", De Pelicula Plus (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1449
-#EXTINF:-1,CINE - De Pelicula Plus (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", De Pelicula Plus (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1450
-#EXTINF:-1,CINE - De Película (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", De Película (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26754
-#EXTINF:-1,CINE - Distrito Comedia (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Distrito Comedia (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26923
-#EXTINF:-1,CINE - Distrito Comedia (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Distrito Comedia (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1451
-#EXTINF:-1,CINE - A3 Cine INT (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", A3 Cine INT (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26971
-#EXTINF:-1,CINE - A3 Series (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", A3 Series (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26906
-#EXTINF:-1,CINE - E! (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", E! (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26913
-#EXTINF:-1,CINE - E! (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", E! (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26760
-#EXTINF:-1,CINE - E! (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", E! (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1880
-#EXTINF:-1,CINE - El Gourmet (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", El Gourmet (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26928
-#EXTINF:-1,CINE - Europa Europa (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Europa Europa (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26755
-#EXTINF:-1,CINE - Film And Arts (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Film And Arts (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26745
-#EXTINF:-1,CINE - Food Network (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Food Network (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26909
-#EXTINF:-1,CINE - Food Network (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Food Network (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26748
-#EXTINF:-1,CINE - FX (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", FX (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26924
-#EXTINF:-1,CINE - FX (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", FX (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26746
-#EXTINF:-1,CINE - FX MEX (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", FX MEX (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/119334
-#EXTINF:-1,CINE - I.Sat (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", I.Sat (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26752
-#EXTINF:-1,CINE - Lifetime (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Lifetime (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26914
-#EXTINF:-1,CINE - Panico MEX (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Panico MEX (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/119335
-#EXTINF:-1,CINE - Paramount Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Paramount Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1486
-#EXTINF:-1,CINE - Paramount Channel (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Paramount Channel (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1485
-#EXTINF:-1,CINE - Showtime Dual (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Showtime Dual (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/53244
-#EXTINF:-1,CINE - Paramount Channel (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Paramount Channel (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1916
-#EXTINF:-1,CINE - Showtime East Dual (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Showtime East Dual (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/53245
-#EXTINF:-1,CINE - Showtime West Dual (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Showtime West Dual (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/53243
-#EXTINF:-1,CINE - Sony Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26910
-#EXTINF:-1,CINE - Sony Channel (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Channel (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1922
-#EXTINF:-1,CINE - Sony Channel (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Channel (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1487
-#EXTINF:-1,CINE - Sony Channel (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Channel (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26747
-#EXTINF:-1,CINE - Sony Cine (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Cine (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1929
-#EXTINF:-1,CINE - Sony Comedias (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Comedias (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154353
-#EXTINF:-1,CINE - Sony Movies (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Movies (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154351
-#EXTINF:-1,CINE - Sony Novelas (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Sony Novelas (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154352
-#EXTINF:-1,CINE - Space (e)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Space (e)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/74409
-#EXTINF:-1,CINE - Space (e)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Space (e)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/74410
-#EXTINF:-1,CINE - Space (X)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Space (X)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26759
-#EXTINF:-1,CINE - Space MX (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Space MX (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26904
-#EXTINF:-1,CINE - STAR Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", STAR Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26901
-#EXTINF:-1,CINE - STAR Channel (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-logo="" group-title="CINE", STAR Channel (M)(1080) [Dual Audio]
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1454
-#EXTINF:-1,CINE - STAR Channel (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", STAR Channel (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26758
-#EXTINF:-1,CINE - STAR Channel (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", STAR Channel (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1920
-#EXTINF:-1,CINE - Star TVE (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Star TVE (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26911
-#EXTINF:-1,CINE - Starz (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Starz (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1930
-#EXTINF:-1,CINE - Starz Comedy (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Starz Comedy (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1928
-#EXTINF:-1,CINE - STARZ Edge (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", STARZ Edge (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26751
-#EXTINF:-1,CINE - STARZ Encore Suspenso (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", STARZ Encore Suspenso (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26918
-#EXTINF:-1,CINE - Starz Family (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Starz Family (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/29664
-#EXTINF:-1,CINE - Studio Universal (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Studio Universal (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1495
-#EXTINF:-1,CINE - Studio Universal (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Studio Universal (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26742
-#EXTINF:-1,CINE - Studio Universal (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Studio Universal (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1925
-#EXTINF:-1,CINE - Studio Universal S (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Studio Universal S (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26905
-#EXTINF:-1,CINE - Syfy (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Syfy (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1917
-#EXTINF:-1,CINE - TBS (C)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TBS (C)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26750
-#EXTINF:-1,CINE - TBS (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TBS (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1907
-#EXTINF:-1,CINE - TBS (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TBS (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1499
-#EXTINF:-1,CINE - TBS Very Funny (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TBS Very Funny (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1501
-#EXTINF:-1,CINE - TCM (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", TCM (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26756
-#EXTINF:-1,CINE - Warner Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Warner Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1515
-#EXTINF:-1,CINE - Warner Channel (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Warner Channel (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1516
-#EXTINF:-1,CINE - Warner Channel MEX (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Warner Channel MEX (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/119338
-#EXTINF:-1,CINE - Wobi TV TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="CINE", Wobi TV TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26900
-#EXTINF:-1,CINE -HBO Xtream (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Xtream (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1908
-#EXTINF:-1,CINE -HBO Xtream (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO Xtream (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1458
 
 #EXTINF:-1,DAZN F1 (TV)(720)
@@ -1035,12 +1057,12 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/26886
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26883
 #EXTINF:-1,INF-Boomerang (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1370
+#EXTINF:-1,INF-Cartoon Network HD
+http://200.123.15.181:7087/play/a030/index.m3u8
 #EXTINF:-1,INF-Cartoon Network (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26884
 #EXTINF:-1,INF-Cartoon Network (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1372
-#EXTINF:-1,INF-Cartoon Network (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/26879
 #EXTINF:-1,INF-Discovery Kids (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1375
 #EXTINF:-1,INF-Discovery Kids (M)(720)
@@ -1059,9 +1081,9 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/26878
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1387
 #EXTINF:-1,INF-Nick (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1388
-#EXTINF:-1,INF-Nick 2 (M)(1080)
+#EXTINF:-1,Teen Nick  (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1390
-#EXTINF:-1,INF-Nick 2 (M)(SD)
+#EXTINF:-1, UNNIVERSAL TV (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26876
 #EXTINF:-1,INF-Nick Jr (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1392
@@ -1071,10 +1093,8 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/1393
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26882
 #EXTINF:-1,INF-Nickelodeon (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26885
-#EXTINF:-1,INF-Nicktoons (M)(720)
+#EXTINF:-1,INF-Nick music (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1394
-#EXTINF:-1,INF-Nicktoons (M)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/1395
 #EXTINF:-1,INF-Princesa Sofia  (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1382
 #EXTINF:-1,INF-Tooncast (M)(720)
@@ -1591,7 +1611,7 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/5546
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/5548
 #EXTINF:-1,CHI-CDO Premium (e)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/180308
-#EXTINF:-1,PAN-TVN (C)(HQ)
+#EXTINF:-1,PAN -TVN (C)(HQ)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154204
 
 #EXTINF:-1,•●★--DEPORTES COLOMBIA--★●•
@@ -1638,20 +1658,15 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/53535
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118352
 #EXTINF:-1,COL-RCN (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/22137
-#EXTINF:-1,COL-RCN (SD) (M)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/22135
-#EXTINF:-1,COL-RCN (TV)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/59852
-#EXTINF:-1,COL-RCN (X)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/118353
-#EXTINF:-1,COL-RCN Novelas (M)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/22133
-#EXTINF:-1,COL-RCN Novelas (TV)(SD)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/59854
-#EXTINF:-1,COL-RCN Nuestra Tele (M)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/22134
-#EXTINF:-1,COL-RCN Internacional (TV)(720)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/118354
+#EXTINF:-1,COL-RCN FHD (CO)
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304257
+#EXTINF:-1,COL-RCN SD (CO)
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304258
+#EXTINF:-1,COL-RCN HD (CO)
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304259
+#EXTINF:-1,COL-RCN Telenovelas SD (CO)
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304262
+
 #EXTINF:-1,COL-Cable Noticias (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59845
 #EXTINF:-1,COL-Canal Uno (X)(720)
@@ -2053,84 +2068,6 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/218430
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/218431
 #EXTINF:-1,Leagues Cup
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/218432
-#EXTINF:-1,LMB: 18:35  Saraperos de Saltillo vs Tecolotes de los Dos Laredos
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218433
-#EXTINF:-1,LMB: 19:00  Algodoneros de Unión Laguna vs Pericos de Puebla
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218434
-#EXTINF:-1,LMB: 19:00  Diablos Rojos del México vs Guerreros de Oaxaca
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218435
-#EXTINF:-1,LMB: 19:30  Leones de Yucatán vs Sultanes de Monterrey
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218436
-#EXTINF:-1,LMB: 19:30  Rieleros de Aguascalientes vs Tigres de Quintana Roo
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218437
-#EXTINF:-1,LMB: 19:30  Bravos de León vs El Águila de Veracruz
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218438
-#EXTINF:-1,LMB: 19:35  Mariachis de Guadalajara vs Generales de Durango
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218439
-#EXTINF:-1,LMB: 20:35  Acereros de Monclova vs Toros de Tijuana
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218440
-#EXTINF:-1,19:00 KNOCKOUT Estrada vs Yudica ESP
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218445
-#EXTINF:-1,19:00 Carib: Royale Boxing ENG
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218446
-#EXTINF:-1,9:00 F1 Belgica Clasificaicon
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218447
-#EXTINF:-1,11:20 AM | EN ESPAñOL - REAL BETIS VS BURNLEY (INTERNATIONAL FRIENDLY)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218448
-#EXTINF:-1,11:25 AM | REAL BETIS VS BURNLEY (INTERNATIONAL FRIENDLY)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218449
-#EXTINF:-1,12:25 PM | HAMBURGER SV VS FC SCHALKE 04 (2 BUNDESLIGA)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218450
-#EXTINF:-1,12:40 PM | UNION ST GILLOISE VS ANDERLECHT (BELGIAN FIRST DIVISION)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218451
-#EXTINF:-1,13:30	Unión Santa Fe vs Defensa y Justicia
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218452
-#EXTINF:-1,13:30	Argentinos Juniors vs Estudiantes
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218453
-#EXTINF:-1,16:00	Newell's Old Boys vs Talleres Córdoba
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218454
-#EXTINF:-1,16:00	Belgrano vs Rosario Central
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218455
-#EXTINF:-1,18:30	River Plate vs Racing Club
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218456
-#EXTINF:-1,17:30 Brighton & Hove Albion vs Newcastle United
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218457
-#EXTINF:-1,MLB | Tigers VS Marlins | 07/28/2023 16:40:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218458
-#EXTINF:-1,MLB | Phillies VS Pirates | 07/28/2023 17:05:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218459
-#EXTINF:-1,MLB | Yankees VS Orioles | 07/28/2023 17:05:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218460
-#EXTINF:-1,MLB | Angels VS Blue Jays | 07/28/2023 17:07:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218461
-#EXTINF:-1,MLB | Nationals VS Mets | 07/28/2023 17:10:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218462
-#EXTINF:-1,MLB | Guardians VS White Sox | 07/28/2023 17:10:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218463
-#EXTINF:-1,MLB | Brewers VS Braves | 07/28/2023 17:20:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218464
-#EXTINF:-1,MLB | Rays VS Astros | 07/28/2023 18:10:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218465
-#EXTINF:-1,MLB | Twins VS Royals | 07/28/2023 18:10:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218466
-#EXTINF:-1,MLB | Cubs VS Cardinals | 07/28/2023 18:15:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218467
-#EXTINF:-1,MLB | Athletics VS Rockies | 07/28/2023 18:40:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218468
-#EXTINF:-1,MLB | Mariners VS D-backs | 07/28/2023 19:40:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218469
-#EXTINF:-1,MLB | Rangers VS Padres | 07/28/2023 19:40:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218470
-#EXTINF:-1,MLB | Reds VS Dodgers | 07/28/2023 20:10:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218471
-#EXTINF:-1,MLB | Red Sox VS Giants | 07/28/2023 20:15:00
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218472
-#EXTINF:-1,21:05 | Correcaminos UAT vs Mineros de Zacatecas |
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218473
-#EXTINF:-1,19:06	Santos Laguna vs Guadalajara
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218474
-#EXTINF:-1,21:00	Tigres UANL vs Mazatlán
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/218475
 
 #EXTINF:-1,•●★-- Documentales--★●
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/117284
@@ -2971,38 +2908,7 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/3719
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/100815
 #EXTINF:-1,PPV-NFL Now (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/100816
-#EXTINF:-1,USA - 24/7 Cinemax West (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63660
-#EXTINF:-1,USA - 24/7 IndiePlex (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63659
-#EXTINF:-1,USA - 24/7 MovieMax (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63657
-#EXTINF:-1,USA - 24/7 MoviePlex (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63656
-#EXTINF:-1,USA - 24/7 OuterMax (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63655
-#EXTINF:-1,USA - 24/7 RetroPlex (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63654
-#EXTINF:-1,USA - 24/7 Showtime West (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63653
-#EXTINF:-1,USA - 24/7 Starz (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63634
-#EXTINF:-1,USA - 24/7 Starz Black (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63652
-#EXTINF:-1,USA - 24/7 Starz Cinema West (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63649
-#EXTINF:-1,USA - 24/7 Starz Comedy (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63648
-#EXTINF:-1,USA - 24/7 Starz East (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63647
-#EXTINF:-1,USA - 24/7 Starz Encore Action (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63643
-#EXTINF:-1,USA - 24/7 Starz Encore Family (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63640
-#EXTINF:-1,USA - 24/7 Starz Encore West (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63636
-#EXTINF:-1,USA - 24/7 Starz Family (M)(1080)
-http://latintvec.com:43201/marcuspty/PBSHBciC5C/63635
+
 #EXTINF:-1,USA-A&E (x)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59938
 #EXTINF:-1,USA-AMC (X)(720)
