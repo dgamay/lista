@@ -687,31 +687,31 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/123874
 #EXTINF:-1,ESPN Premium FHD (ARG)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34648
 
-#EXTINF:-1,ESPN SD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312831
 
-#EXTINF:-1,ESPN HD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN HD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312830
 
-#EXTINF:-1,ESPN FHD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312829
 
-#EXTINF:-1,ESPN 2 SD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312834
 
-#EXTINF:-1,ESPN 2 FHD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312832
 
-#EXTINF:-1,ESPN 3 FHD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312835
 
-#EXTINF:-1,ESPN 4 FHD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312838
 
-#EXTINF:-1,ESPN Extra SD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN Extra SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312843
 
-#EXTINF:-1,ESPN Extra FHD (CO)
+#EXTINF:-1 group-title="DEPORTES", ESPN Extra FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/312841
 
 #EXTINF:-1,ESPN SD (MX)
@@ -831,35 +831,6 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34617
 #EXTINF:-1,Claro Sports FHD (LAT)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34618
 
-#EXTINF:-1,CDO Basico SD (CL)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34678
-
-#EXTINF:-1,CDO Premium SD (CL)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34679
-
-#EXTINF:-1,CDO Premium HD (CL)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/121890
-
-#EXTINF:-1,Teletrak HD (CL)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34680
-
-#EXTINF:-1,Sporting HD (CL)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34681
-
-#EXTINF:-1,TyC Sports  SD (ARG)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34685
-
-#EXTINF:-1,TyC Sports HD (ARG)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34686
-
-#EXTINF:-1,TyC Sports Internacional HD (ARG)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34688
-
-#EXTINF:-1,DeporTV HD (ARG)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34740
-
-#EXTINF:-1,DeporTV FHD (ARG)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/123873
 
 #EXTINF:-1,Win Sports SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34689
@@ -869,55 +840,6 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34690
 
 #EXTINF:-1,Win Sports + FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34691
-
-#EXTINF:-1,Movistar Deportes (PE)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34743
-
-#EXTINF:-1,GolPeru SD (PE)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34744
-
-#EXTINF:-1,GolPeru FHD (PE)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34745
-
-#EXTINF:-1,Gol TV HD (ECU)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34693
-
-#EXTINF:-1,Golf Channel SD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34695
-
-#EXTINF:-1,Golf Channel HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34696
-
-#EXTINF:-1,Adrenalina Sport Network HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302603
-
-#EXTINF:-1,Adrenalina Sport Network FHD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34699
-
-#EXTINF:-1,NFL Network (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/313027
-
-#EXTINF:-1,TVC Deportes HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302737
-
-#EXTINF:-1,Aym Sports HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302613
-
-#EXTINF:-1,Hi Sports HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/313025
-
-#EXTINF:-1,TUDN HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304510
-
-#EXTINF:-1,Afizzionados HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304505
-
-#EXTINF:-1,TVC Deportes SD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34700
-
-#EXTINF:-1,NBA TV HD (US)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34712
-
 #EXTINF:-1,UFC Fight Pass FHD (US)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34714
 
@@ -930,32 +852,8 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34716
 #EXTINF:-1,Fight Network FHD (CA)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34711
 
-#EXTINF:-1,Canal F1 FHD (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34701
-
-#EXTINF:-1,Barca TV SD (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34702
-
-#EXTINF:-1,b31N LA Liga FHD (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34703
-
-#EXTINF:-1,Movistar Deportes FHD (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34704
-
 #EXTINF:-1,NFL Network HD (US)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34705
-
-#EXTINF:-1,Real Madrid TV FHD (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34706
-
-#EXTINF:-1,EuroSport 1 HQ (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34709
-
-#EXTINF:-1,EuroSport 2 HQ (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34710
-
-#EXTINF:-1,b31N Sports Ñ HQ (ES)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34717
 
 #EXTINF:-1,b31N Sports 7 HQ (AR)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34724

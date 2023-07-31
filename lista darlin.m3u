@@ -36,17 +36,17 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/65388
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1097
 #EXTINF:-1,ECU-PPV 2 (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/66868
-#EXTINF:-1,INF-Baby tv (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Baby tv (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1887
-#EXTINF:-1,INF-boomerang (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",boomerang (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1886
-#EXTINF:-1,INF-Disney Channel (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney Channel (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1890
-#EXTINF:-1,INF-Disney Jr (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney Jr (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1889
-#EXTINF:-1,INF-Disney XD (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney XD (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1888
-#EXTINF:-1,INF-Nick 2 (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick 2 (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1891
 #EXTINF:-1,MEX-Azteca Uno (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1881
@@ -56,13 +56,13 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/1882
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1883
 #EXTINF:-1,MEX-Las Estrellas (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1885
-#EXTINF:-1,MUS-Bandamax (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Bandamax (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69593
 #EXTINF:-1,NOT-CNN USA (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1879
-#EXTINF:-1,NOV-tlNovela (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",tlNovela (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69579
-#EXTINF:-1,NOV-Universo Este (PM)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Universo Este (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/65424
 #EXTINF:-1,USA-Gol TV ES (PM)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/65431
@@ -1051,111 +1051,111 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/177634
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/177635
 #EXTINF:-1,DOC-Discovery Channel (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/177636
-#EXTINF:-1,INF-Baby First (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Baby First (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26886
-#EXTINF:-1,INF-Baby First (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Baby First (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26883
-#EXTINF:-1,INF-Boomerang (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Boomerang (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1370
-#EXTINF:-1,INF-Cartoon Network HD
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Cartoon Network HD
 http://200.123.15.181:7087/play/a030/index.m3u8
-#EXTINF:-1,INF-Cartoon Network (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Cartoon Network (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26884
-#EXTINF:-1,INF-Cartoon Network (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Cartoon Network (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1372
-#EXTINF:-1,INF-Discovery Kids (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery Kids (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1375
-#EXTINF:-1,INF-Discovery Kids (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery Kids (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26887
-#EXTINF:-1,INF-Discovery Kids (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery Kids (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26881
-#EXTINF:-1,INF-Disney Channel (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney Channel (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1377
-#EXTINF:-1,INF-Disney Jr (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney Jr (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1379
-#EXTINF:-1,INF-Disney Jr (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney Jr (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1380
-#EXTINF:-1,INF-Disney JR (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Disney JR (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26878
-#EXTINF:-1,INF-Nick (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1387
-#EXTINF:-1,INF-Nick (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1388
 #EXTINF:-1,Teen Nick  (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1390
 #EXTINF:-1, UNNIVERSAL TV (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26876
-#EXTINF:-1,INF-Nick Jr (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick Jr (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1392
-#EXTINF:-1,INF-Nick Jr (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick Jr (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1393
-#EXTINF:-1,INF-Nick JR (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick JR (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26882
-#EXTINF:-1,INF-Nickelodeon (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nickelodeon (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26885
-#EXTINF:-1,INF-Nick music (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nick music (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1394
-#EXTINF:-1,INF-Princesa Sofia  (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Princesa Sofia  (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1382
-#EXTINF:-1,INF-Tooncast (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Tooncast (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1396
-#EXTINF:-1,INF-Tooncast (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Tooncast (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1397
-#EXTINF:-1,INF-Universal Kids (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Universal Kids (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/27335
-#EXTINF:-1,MUS-Bandamax (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Bandamax (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26943
-#EXTINF:-1,MUS-HTV (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HTV (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69249
-#EXTINF:-1,MUS-HTV (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HTV (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69248
-#EXTINF:-1,MUS-MTV (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26944
-#EXTINF:-1,MUS-MTV (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1306
-#EXTINF:-1,MUS-MTV (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26935
-#EXTINF:-1,MUS-MTV Hits (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Hits (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26934
-#EXTINF:-1,MUS-MTV Hits(M)(720)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Hits(M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1304
-#EXTINF:-1,MUS-MTV Live (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Live (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26939
-#EXTINF:-1,MUS-MTV Live (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Live (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1302
-#EXTINF:-1,MUS-MTV Live (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV Live (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26933
-#EXTINF:-1,MUS-MTV(M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV(M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1307
-#EXTINF:-1,MUS-Ritmoson (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Ritmoson (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26938
-#EXTINF:-1,MUS-Telehit (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Telehit (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26940
-#EXTINF:-1,MUS-Telehit (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Telehit (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26937
-#EXTINF:-1,MUS-Telehit Plus(M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Telehit Plus(M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1315
-#EXTINF:-1,MUS-Telehit(M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Telehit(M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1318
-#EXTINF:-1,MUS-Teleritmo (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Teleritmo (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1314
-#EXTINF:-1,MUS-VH1 (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26941
-#EXTINF:-1,MUS-VH1 (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1320
-#EXTINF:-1,MUS-VH1 (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26936
-#EXTINF:-1,MUS-VH1 Classic(M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 Classic(M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1323
-#EXTINF:-1,MUS-Vh1 Classics (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Vh1 Classics (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/26942
-#EXTINF:-1,MUS-VH1 Mega Hits (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 Mega Hits (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1326
-#EXTINF:-1,MUS-VH1 P(M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 P(M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1325
-#EXTINF:-1,MUS-VH1 Plus (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1 Plus (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1324
-#EXTINF:-1,MUS-VH1(M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",VH1(M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1321
 #EXTINF:-1,NOT-BBC World News (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1295
@@ -1257,201 +1257,201 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/1673
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1674
 #EXTINF:-1,PPV Cinema Latino 33(M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1675
-#EXTINF:-1,NOV-Galavision Miami (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Galavision Miami (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157048
-#EXTINF:-1,NOV-Galavision New York (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Galavision New York (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157047
-#EXTINF:-1,NOV-Galavision NY (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Galavision NY (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157049
-#EXTINF:-1,NOV-Telemundo (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156964
-#EXTINF:-1,NOV-Telemundo (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156994
-#EXTINF:-1,NOV-Telemundo (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156995
-#EXTINF:-1,NOV-Telemundo - New York (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New York (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156925
-#EXTINF:-1,NOV-Telemundo - New York (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New York (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156926
-#EXTINF:-1,NOV-Telemundo - New York (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New York (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156923
-#EXTINF:-1,NOV-Telemundo - New York (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New York (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156924
-#EXTINF:-1,NOV-Telemundo - Los Angeles (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Los Angeles (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156952
-#EXTINF:-1,NOV-Telemundo - Los Angeles (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Los Angeles (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156956
-#EXTINF:-1,NOV-Telemundo - Los Angeles (L)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Los Angeles (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156987
-#EXTINF:-1,NOV-Telemundo - Los Angeles (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Los Angeles (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156931
-#EXTINF:-1,NOV-Telemundo - Los Angeles (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Los Angeles (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157003
-#EXTINF:-1,NOV-Telemundo - Miami (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Miami (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156928
-#EXTINF:-1,NOV-Telemundo - Miami (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Miami (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156929
-#EXTINF:-1,NOV-Telemundo - Miami (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Miami (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156927
-#EXTINF:-1,NOV-Telemundo - Miami (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Miami (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157004
-#EXTINF:-1,NOV-Telemundo - Atlanta (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Atlanta (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156974
-#EXTINF:-1,NOV-Telemundo - Atlanta (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Atlanta (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156996
-#EXTINF:-1,NOV-Telemundo - Boston (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Boston (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156975
-#EXTINF:-1,NOV-Telemundo - Boston (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Boston (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156991
-#EXTINF:-1,NOV-Telemundo - Boston (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Boston (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156948
-#EXTINF:-1,NOV-Telemundo - Boston (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Boston (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156997
-#EXTINF:-1,NOV-Telemundo - Chicago (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Chicago (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156990
-#EXTINF:-1,NOV-Telemundo - Chicago (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Chicago (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156935
-#EXTINF:-1,NOV-Telemundo - Chicago (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Chicago (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156998
-#EXTINF:-1,NOV-Telemundo - Colorado (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Colorado (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156999
-#EXTINF:-1,NOV-Telemundo - Colorado Springs (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Colorado Springs (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156955
-#EXTINF:-1,NOV-Telemundo - Dallas (L)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Dallas (L)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156989
-#EXTINF:-1,NOV-Telemundo - Dallas (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Dallas (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156947
-#EXTINF:-1,NOV-Telemundo - DALLAS 39 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - DALLAS 39 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156972
-#EXTINF:-1,NOV-Telemundo - Denver (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Denver (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156946
-#EXTINF:-1,NOV-Telemundo - Denver (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Denver (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157001
-#EXTINF:-1,NOV-Telemundo - Fresno (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Fresno (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156988
-#EXTINF:-1,NOV-Telemundo - Fresno (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Fresno (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156945
-#EXTINF:-1,NOV-Telemundo - Honolulu 52 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Honolulu 52 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156976
-#EXTINF:-1,NOV-Telemundo - Houston (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Houston (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156951
-#EXTINF:-1,NOV-Telemundo - Houston (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Houston (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156944
-#EXTINF:-1,NOV-Telemundo - National East (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - National East (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156993
-#EXTINF:-1,NOV-Telemundo - National West (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - National West (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156992
-#EXTINF:-1,NOV-Telemundo - New Orleans (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New Orleans (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156966
-#EXTINF:-1,NOV-Telemundo - New Orleans (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - New Orleans (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157005
-#EXTINF:-1,NOV-Telemundo - Orlando (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Orlando (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156950
-#EXTINF:-1,NOV-Telemundo - Orlando (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Orlando (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156970
-#EXTINF:-1,NOV-Telemundo - Orlando Florida (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Orlando Florida (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156936
-#EXTINF:-1,NOV-Telemundo - Philadelphia (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Philadelphia (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156986
-#EXTINF:-1,NOV-Telemundo - Philadelphia (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Philadelphia (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156942
-#EXTINF:-1,NOV-Telemundo - Phoenix (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Phoenix (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156977
-#EXTINF:-1,NOV-Telemundo - Phoenix (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Phoenix (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156941
-#EXTINF:-1,NOV-Telemundo - Phoenix (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Phoenix (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157007
-#EXTINF:-1,NOV-Telemundo - San Antonio (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - San Antonio (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156940
-#EXTINF:-1,NOV-Telemundo - San Antonio (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - San Antonio (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157008
-#EXTINF:-1,NOV-Telemundo - San Francisco (L)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - San Francisco (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156983
-#EXTINF:-1,NOV-Telemundo - San francisco (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - San francisco (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156939
-#EXTINF:-1,NOV-Telemundo - Tampa (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tampa (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156969
-#EXTINF:-1,NOV-Telemundo - Tampa (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tampa (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156934
-#EXTINF:-1,NOV-Telemundo - Tampa (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tampa (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157010
-#EXTINF:-1,NOV-Telemundo - Tucson (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tucson (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156953
-#EXTINF:-1,NOV-Telemundo - Tucson (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tucson (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156938
-#EXTINF:-1,NOV-Telemundo - Washington (L)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Washington (L)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156982
-#EXTINF:-1,NOV-Telemundo - Washington (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Washington (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156932
-#EXTINF:-1,NOV-Telemundo - Washington (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Washington (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157012
-#EXTINF:-1,NOV-Telemundo - Washington DC (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Washington DC (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156933
-#EXTINF:-1,NOV-Telemundo - Washington DC 44 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Washington DC 44 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156971
-#EXTINF:-1,NOV-Telemundo - 51 Fresno (Merced) (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - 51 Fresno (Merced) (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156954
-#EXTINF:-1,NOV-Telemundo - Chattanooga 44 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Chattanooga 44 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156958
-#EXTINF:-1,NOV-Telemundo - Connecticut (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Connecticut (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157000
-#EXTINF:-1,NOV-Telemundo - Denver (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Denver (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156965
-#EXTINF:-1,NOV-Telemundo - Indianapolis (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Indianapolis (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156959
-#EXTINF:-1,NOV-Telemundo - Internacional (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Internacional (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157002
-#EXTINF:-1,NOV-Telemundo - Jacksonville 51 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Jacksonville 51 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156957
-#EXTINF:-1,NOV-Telemundo - Knoxville 44 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Knoxville 44 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156960
-#EXTINF:-1,NOV-Telemundo - Las Vegas (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Las Vegas (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156949
-#EXTINF:-1,NOV-Telemundo - Las Vegas (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Las Vegas (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156943
-#EXTINF:-1,NOV-Telemundo - Lubbock (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Lubbock (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156980
-#EXTINF:-1,NOV-Telemundo - Medford (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Medford (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156963
-#EXTINF:-1,NOV-Telemundo - OK | Oklahoma City (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - OK | Oklahoma City (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156968
-#EXTINF:-1,NOV-Telemundo - Oklahoma (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Oklahoma (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157006
-#EXTINF:-1,NOV-Telemundo - Omaha (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Omaha (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156967
-#EXTINF:-1,NOV-Telemundo - Phoenix Arizona (L)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Phoenix Arizona (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156985
-#EXTINF:-1,NOV-Telemundo - Rio Grande City 40 (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Rio Grande City 40 (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156981
-#EXTINF:-1,NOV-Telemundo - Sacramento (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Sacramento (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156978
-#EXTINF:-1,NOV-Telemundo - San Diego (L)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - San Diego (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156984
-#EXTINF:-1,NOV-Telemundo - Texas (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Texas (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157011
-#EXTINF:-1,NOV-Telemundo - Tulsa (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - Tulsa (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156962
-#EXTINF:-1,NOV-Telemundo - WEST (C)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Telemundo - WEST (C)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/156979
-#EXTINF:-1,NOV-Pasiones (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Pasiones (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/3253
-#EXTINF:-1,NOV-TLN tlnovelas (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",TLN tlnovelas (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1285
-#EXTINF:-1,NOV-TLN tlnovelas (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",TLN tlnovelas (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1286
-#EXTINF:-1,NOV-Unicable (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Unicable (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1283
-#EXTINF:-1,NOV-Unicable (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Unicable (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1284
-#EXTINF:-1,NOV-Unimas (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Unimas (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/1282
-#EXTINF:-1,NOV-Universo (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Universo (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69572
-#EXTINF:-1,NOV-Univision TeleNovelas (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision TeleNovelas (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/103667
-#EXTINF:-1,NOV-Univision Telenovelas (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Telenovelas (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/99083
-#EXTINF:-1,NOV-Univision TV Novelas (TV)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision TV Novelas (TV)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157013
 #EXTINF:-1,UNIMáS (KFTR-Los Angeles CA) (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157041
@@ -1473,47 +1473,47 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/157044
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157037
 #EXTINF:-1,UNIMáS New York (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157036
-#EXTINF:-1,NOV-Univision (X)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision (X)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157014
-#EXTINF:-1,NOV-Univision (WXTV-New York NY) (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision (WXTV-New York NY) (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157015
-#EXTINF:-1,NOV-Univision Atlanta (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Atlanta (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157028
-#EXTINF:-1,NOV-Univision Chicago (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Chicago (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157029
-#EXTINF:-1,NOV-Univision Chicago (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Chicago (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157030
-#EXTINF:-1,NOV-Univision Dallas (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Dallas (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157031
-#EXTINF:-1,NOV-Univision Houston (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Houston (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157032
-#EXTINF:-1,NOV-Univision Los Angeles (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Los Angeles (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157023
-#EXTINF:-1,NOV-Univision Los Angeles (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Los Angeles (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157022
-#EXTINF:-1,NOV-Univision Los Angeles (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Los Angeles (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157024
-#EXTINF:-1,NOV-Univision Los Angeles (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Los Angeles (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157025
-#EXTINF:-1,NOV-Univision Miami (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Miami (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157020
-#EXTINF:-1,NOV-Univision Miami (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Miami (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157019
-#EXTINF:-1,NOV-Univision Miami (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Miami (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157021
-#EXTINF:-1,NOV-Univision Network (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Network (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157027
-#EXTINF:-1,NOV-Univision New York (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision New York (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157018
-#EXTINF:-1,NOV-Univision New York (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision New York (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157016
-#EXTINF:-1,NOV-Univision New York (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision New York (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157017
-#EXTINF:-1,NOV-Univision Noticias (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Noticias (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157033
-#EXTINF:-1,NOV-Univision Phoenix (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision Phoenix (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157026
-#EXTINF:-1,NOV-Univision San Francisco (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",Univision San Francisco (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/157034
 #EXTINF:-1,La Casa de los Famosos | Acceso Total (L)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/177424
@@ -1616,82 +1616,82 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/154204
 
 #EXTINF:-1,•●★--DEPORTES COLOMBIA--★●•
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/60143
-#EXTINF:-1,COL-PPV 1 EVENTOS 1 (e)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",PPV 1 EVENTOS 1 (e)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/178018
-#EXTINF:-1,COL-PPV 2 EVENTOS 2 (e)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",PPV 2 EVENTOS 2 (e)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/178019
-#EXTINF:-1,COL-WinSports + (L)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WinSports + (L)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/23129
-#EXTINF:-1,COL-Winsport + (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Winsport + (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59855
-#EXTINF:-1,COL-WinSports + (C)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WinSports + (C)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/23130
-#EXTINF:-1,COL-WinSports + (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WinSports + (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/144406
-#EXTINF:-1,COL-WinSports (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WinSports (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/3419
-#EXTINF:-1,COL-Winsports (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Winsports (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59856
-#EXTINF:-1,COL-WinSports (M)(SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",WinSports (M)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/3420
-#EXTINF:-1,COL-Directv Sports + (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Directv Sports + (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154284
-#EXTINF:-1,COL-Directv Sports (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Directv Sports (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/154283
-#EXTINF:-1,COL-Claro Sports (M)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Claro Sports (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/22142
-#EXTINF:-1,COL-Caracol (M) (SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol (M) (SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/22144
-#EXTINF:-1,COL-Caracol (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59848
-#EXTINF:-1,COL-Caracol (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59847
-#EXTINF:-1,COL-Caracol (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/115772
-#EXTINF:-1,COL-Caracol (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118351
-#EXTINF:-1,COL-Caracol 2 (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol 2 (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153307
-#EXTINF:-1,COL-Caracol Internacional (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol Internacional (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/53535
-#EXTINF:-1,COL-Caracol Internacional (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Caracol Internacional (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118352
-#EXTINF:-1,COL-RCN (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",RCN (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/22137
-#EXTINF:-1,COL-RCN FHD (CO)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",RCN FHD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304257
-#EXTINF:-1,COL-RCN SD (CO)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",RCN SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304258
-#EXTINF:-1,COL-RCN HD (CO)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",RCN HD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304259
-#EXTINF:-1,COL-RCN Telenovelas SD (CO)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",RCN Telenovelas SD (CO)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304262
 
-#EXTINF:-1,COL-Cable Noticias (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Cable Noticias (TV)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59845
-#EXTINF:-1,COL-Canal Uno (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Canal Uno (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118350
-#EXTINF:-1,COL-Canal Uno (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Canal Uno (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/59846
-#EXTINF:-1,COL-City TV (X)(SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",City TV (X)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118369
-#EXTINF:-1,COL-El Tiempo (TV)(SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",El Tiempo (TV)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118370
-#EXTINF:-1,COL-NTN 24 (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",NTN 24 (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118365
-#EXTINF:-1,COL-Señal Colombia (X)(SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Señal Colombia (X)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118372
-#EXTINF:-1,COL-TeleAntioquia (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TeleAntioquia (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118356
-#EXTINF:-1,COL-TeleCafe (M)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TeleCafe (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/5359
-#EXTINF:-1,COL-Telemedellin (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Telemedellin (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118358
-#EXTINF:-1,COL-TeleMusica (X)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TeleMusica (X)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118371
-#EXTINF:-1,COL-Telepacifico (X)(SD)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",Telepacifico (X)(SD)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118410
-#EXTINF:-1,COL-TV Agro (TV)(720)
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",TV Agro (TV)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/118373
 
 #EXTINF:-1,La Casa de los Famosos
@@ -1996,81 +1996,81 @@ http://latintvec.com:43201/marcuspty/PBSHBciC5C/100812
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/100814
 
 
-#EXTINF:-1,XXX - Blue Hustler (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Blue Hustler (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153947
-#EXTINF:-1,XXX - Blue Hustler 2 (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Blue Hustler 2 (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153950
-#EXTINF:-1,XXX - Erox (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Erox (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/55260
-#EXTINF:-1,XXX - Ola La (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Ola La (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153948
-#EXTINF:-1,XXX - HOT TV (M)
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/55303
-#EXTINF:-1,XXX - Hustler TV (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Hustler TV (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67375
-#EXTINF:-1,XXX - Penthouse Gold (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Penthouse Gold (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153944
-#EXTINF:-1,XXX - Penthouse Quickies (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Penthouse Quickies (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153938
-#EXTINF:-1,XXX - Playboy TV (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Playboy TV (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153951
-#EXTINF:-1,XXX - Playboy Europe (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Playboy Europe (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67378
-#EXTINF:-1,XXX - Playboy TV (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Playboy TV (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67383
-#EXTINF:-1,XXX - Private TV (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Private TV (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153949
-#EXTINF:-1,XXX - Redlight (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Redlight (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153941
-#EXTINF:-1,XXX - Rusian Night (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Rusian Night (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67382
-#EXTINF:-1,XXX - SCT Classic (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="XXX", SCT Classic (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67379
-#EXTINF:-1,XXX - SEX Ation (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", SEX Ation (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153946
-#EXTINF:-1,XXX - Sextreme (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67380
-#EXTINF:-1,XXX - Sextreme HOT LA1 (M)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme HOT LA1 (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69998
-#EXTINF:-1,XXX - Sextreme HOT LA2
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme HOT LA2
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69997
-#EXTINF:-1,XXX - Sextreme HOT LA3
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme HOT LA3
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69996
-#EXTINF:-1,XXX - Sextreme HOT LA5
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme HOT LA5
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69995
-#EXTINF:-1,XXX - Sextreme HOT LA6
+#EXTINF:-1 tvg-logo="" group-title="XXX", Sextreme HOT LA6
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69994
-#EXTINF:-1,XXX - HOT TV LA1
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA1
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69988
-#EXTINF:-1,XXX - HOT TV LA10
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA10
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69989
-#EXTINF:-1,XXX - HOT TV LA2
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA2
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69987
-#EXTINF:-1,XXX - HOT TV LA3
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA3
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69986
-#EXTINF:-1,XXX - HOT TV LA4
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA4
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69985
-#EXTINF:-1,XXX - HOT TV LA5 (M)
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA5 (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69984
-#EXTINF:-1,XXX - HOT TV LA6
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA6
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69993
-#EXTINF:-1,XXX - HOT TV LA7
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA7
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69992
-#EXTINF:-1,XXX - HOT TV LA9
+#EXTINF:-1 tvg-logo="" group-title="XXX", HOT TV LA9
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69990
-#EXTINF:-1,XXX - Taboo (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Taboo (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67384
-#EXTINF:-1,XXX - Venus  (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Venus  (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153953
-#EXTINF:-1,XXX - Venus (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Venus (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67385
-#EXTINF:-1,XXX - Venus TV (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Venus TV (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67381
-#EXTINF:-1,XXX - Vivid TV (X)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", Vivid TV (X)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/153942
-#EXTINF:-1,XXX - X1 (M)(1080)
+#EXTINF:-1 tvg-logo="" group-title="XXX", X1 (M)(1080)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/67372
-#EXTINF:-1,XXX - XXL (M)
+#EXTINF:-1 tvg-logo="" group-title="XXX", XXL (M)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/55256
-#EXTINF:-1,XXX - XXL (M)(720)
+#EXTINF:-1 tvg-logo="" group-title="XXX", XXL (M)(720)
 http://latintvec.com:43201/marcuspty/PBSHBciC5C/69991
