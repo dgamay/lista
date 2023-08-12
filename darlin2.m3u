@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1,Win
+http://190.61.43.118:45000/play/a067
+#EXTINF:-1,Win Sports+ HD
+http://190.61.43.118:45000/play/a024
+
+#EXTINF:-1,TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+
+#EXTINF:-1,FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1,FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://45.228.232.219:16000/play/a0ns/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://45.228.232.219:16000/play/a0lo/index.m3u8
+
+#EXTINF:-1,HBO Family HD
+http://45.228.234.193:16000/play/a0ft/index.m3u8
+#EXTINF:-1,HBO HD
+http://45.228.234.193:16000/play/a0fq/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://45.228.234.193:16000/play/a0fs/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.228.234.193:16000/play/a0fu/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://45.228.234.193:16000/play/a0fr/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://45.228.234.193:16000/play/a0b7/index.m3u8
+#EXTINF:-1,HBO
+http://45.177.111.66:8050/play/a0mv
+#EXTINF:-1,HBO 2
+http://45.177.111.66:8050/play/a0pq
+#EXTINF:-1,HBO Family
+http://45.177.111.66:8050/play/a0pt
+#EXTINF:-1,HBO Plus
+http://45.177.111.66:8050/play/a0pr
+#EXTINF:-1,HBO XTREME SD
+http://45.177.111.66:8050/play/a0ps
+
+#EXTINF:-1,Canal Caracol
+http://45.177.111.66:8050/play/a0ls
+
+#EXTINF:-1,AE Mundo
+http://45.177.111.66:8050/play/a0nt
+#EXTINF:-1,ATV
+http://45.177.111.66:8050/play/a0p6
+#EXTINF:-1,AXN
+http://45.177.111.66:8050/play/a0my
+#EXTINF:-1,America TV PY
+http://45.177.111.66:8050/play/a0pb
+#EXTINF:-1,AmericaTV
+http://45.177.111.66:8050/play/a0p4
+
+#EXTINF:-1,Canal RCN
+http://45.177.111.66:8050/play/a0lt
+#EXTINF:-1,Canal Uno
+http://45.177.111.66:8050/play/a0lq
+#EXTINF:-1,Capital
+http://45.177.111.66:8050/play/a0m8
+
+#EXTINF:-1,Cinemax
+http://45.177.111.66:8050/play/a0mw
+#EXTINF:-1,City TV
+http://45.177.111.66:8050/play/a0m7
+
+#EXTINF:-1,Nickelodeon
+http://45.177.111.66:8050/play/a0oc
+
+#EXTINF:-1,STAR CHANNEL
+http://45.177.111.66:8050/play/a0ol
+
+#EXTINF:-1,Sin Limites
+http://45.177.111.66:8050/play/a0pa
+#EXTINF:-1,Sony
+http://45.177.111.66:8050/play/a0mx
+#EXTINF:-1,Space
+http://45.177.111.66:8050/play/a0mz
+#EXTINF:-1,Studio Universal
+http://45.177.111.66:8050/play/a0pw
+#EXTINF:-1,SyFy
+http://45.177.111.66:8050/play/a0ov
+#EXTINF:-1,TBS
+http://45.177.111.66:8050/play/a0p0
+#EXTINF:-1,TCM
+http://45.177.111.66:8050/play/a0om
+#EXTINF:-1,TLC
+http://45.177.111.66:8050/play/a0o5
+#EXTINF:-1,TNT
+http://45.177.111.66:8050/play/a0oo
+#EXTINF:-1,TRO
+http://45.177.111.66:8050/play/a0m5
+#EXTINF:-1,TV Peru
+http://45.177.111.66:8050/play/a0p8
+#EXTINF:-1,TVE
+http://45.177.111.66:8050/play/a0os
