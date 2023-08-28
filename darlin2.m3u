@@ -21,16 +21,7 @@ http://45.228.232.219:16000/play/a0ns/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.228.232.219:16000/play/a0lo/index.m3u8
 
-#EXTINF:-1,HBO Family HD
-http://45.228.234.193:16000/play/a0ft/index.m3u8
-#EXTINF:-1,HBO HD
-http://45.228.234.193:16000/play/a0fq/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://45.228.234.193:16000/play/a0fs/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://45.228.234.193:16000/play/a0fu/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://45.228.234.193:16000/play/a0fr/index.m3u8
+
 
 #EXTINF:-1,Cartoon Network
 http://45.228.234.193:16000/play/a0b7/index.m3u8
@@ -44,6 +35,9 @@ http://45.177.111.66:8050/play/a0pt
 http://45.177.111.66:8050/play/a0pr
 #EXTINF:-1,HBO XTREME SD
 http://45.177.111.66:8050/play/a0ps
+
+#EXTINF:-1,28 | HBO Pop
+http://gumytv.lat:8080/SECASTIANTV/secastian1981/361822
 
 #EXTINF:-1,Canal Caracol
 http://45.177.111.66:8050/play/a0ls
