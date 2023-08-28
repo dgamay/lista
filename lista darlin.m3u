@@ -22,26 +22,32 @@ http://45.228.232.219:16000/play/a0ns/index.m3u8
 http://45.228.232.219:16000/play/a0lo/index.m3u8
 
 
-#EXTINF:-1,HBO
-http://45.177.111.66:8050/play/a0mv
-#EXTINF:-1,HBO 2
-http://45.177.111.66:8050/play/a0pq
-#EXTINF:-1,HBO Family
-http://45.177.111.66:8050/play/a0pt
-#EXTINF:-1,HBO Plus
-http://45.177.111.66:8050/play/a0pr
-#EXTINF:-1,HBO XTREME SD
-http://45.177.111.66:8050/play/a0ps
+#EXTINF:-1,RCN HD
+http://186.154.219.4:1911
+
+#EXTINF:-1,Space HD
+http://186.154.219.4:1950
+
+#EXTINF:-1,WARNER HD
+http://186.154.219.4:1960
 
 #EXTINF:-1,Canal Caracol
 http://45.177.111.66:8050/play/a0ls
+#EXTINF:-1,Caracol HD
+http://186.154.219.4:1910
 
 #EXTINF:-1,AE Mundo
 http://45.177.111.66:8050/play/a0nt
+#EXTINF:-1,A&E HD
+http://186.154.219.4:1952
 #EXTINF:-1,ATV
 http://45.177.111.66:8050/play/a0p6
+
 #EXTINF:-1,AXN
 http://45.177.111.66:8050/play/a0my
+#EXTINF:-1,AXN HD
+
+http://186.154.219.4:1962
 #EXTINF:-1,America TV PY
 http://45.177.111.66:8050/play/a0pb
 #EXTINF:-1,AmericaTV
@@ -67,8 +73,12 @@ http://45.177.111.66:8050/play/a0ol
 
 #EXTINF:-1,Sin Limites
 http://45.177.111.66:8050/play/a0pa
+
 #EXTINF:-1,Sony
 http://45.177.111.66:8050/play/a0mx
+#EXTINF:-1,SONY HD
+http://186.154.219.4:1965
+
 #EXTINF:-1,Space
 http://45.177.111.66:8050/play/a0mz
 #EXTINF:-1,Studio Universal
@@ -89,3 +99,12 @@ http://45.177.111.66:8050/play/a0m5
 http://45.177.111.66:8050/play/a0p8
 #EXTINF:-1,TVE
 http://45.177.111.66:8050/play/a0os
+
+#EXTINF:-1,01 | DAZN F1
+http://gumytv.lat:8080/SECASTIANTV/secastian1981/348537
+
+#EXTINF:-1,02 | DAZN F1 (2)
+http://gumytv.lat:8080/SECASTIANTV/secastian1981/348538
+
+#EXTINF:-1,03 | SKY SPORTS IT F1
+http://gumytv.lat:8080/SECASTIANTV/secastian1981/348539
